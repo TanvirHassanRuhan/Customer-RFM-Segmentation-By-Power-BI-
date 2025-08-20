@@ -1,4 +1,4 @@
-# 🚀 Power BI Customer Segmentation Dashboard – RFM Analysis  
+#  Power BI Customer Segmentation Dashboard – RFM Analysis  
 
 ## 📌 Project Overview  
 This project showcases an **RFM (Recency, Frequency, Monetary) Customer Segmentation Dashboard** built in Power BI.  
